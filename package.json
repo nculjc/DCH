@@ -1,0 +1,12 @@
+{
+  "name": "xuninizhiyue",
+  "version": "1.0.0",
+  "description": "许你之约（兵王相亲大会） - 前后端联动相亲约球平台",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
